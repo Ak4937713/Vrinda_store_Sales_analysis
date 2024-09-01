@@ -22,7 +22,7 @@ The Vrinda Store Analysis Excel Project focuses on analyzing sales data for Vrin
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/vrinda-store-analysis-excel.git
+   git clone git clone https://github.com/yourusername/vrinda-store-analysis-excel.git
    ```
 2. **Open the Excel File**:
    Navigate to the cloned repository and open `Vrinda Store Data Analysis.xlsx` in Microsoft Excel.
