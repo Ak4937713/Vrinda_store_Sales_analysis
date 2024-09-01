@@ -1,4 +1,4 @@
-##Vrinda Store Analysis Excel Project
+## Vrinda Store Analysis Excel Project
 
 ## Overview
 
